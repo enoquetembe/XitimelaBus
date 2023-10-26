@@ -1,0 +1,2 @@
+# HackUSTM
+ USTM - FCTI - HACKATHON - 2023
